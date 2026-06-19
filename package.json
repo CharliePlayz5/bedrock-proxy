@@ -1,0 +1,12 @@
+{
+  "name": "bedrock-proxy-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.19.2",
+    "node-minecraft-protocol": "^1.40.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
