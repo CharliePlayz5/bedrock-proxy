@@ -1,4 +1,4 @@
-const bedrock = require('node-minecraft-protocol');
+const bedrock = require('bedrock-protocol');
 const express = require('express');
 const app = express();
 
